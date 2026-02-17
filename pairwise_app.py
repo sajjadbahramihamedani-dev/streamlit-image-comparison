@@ -1,4 +1,4 @@
-%%writefile pairwise_app.py
+
 # pairwise_app.py
 import streamlit as st
 import pandas as pd
